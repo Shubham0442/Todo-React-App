@@ -8,7 +8,7 @@ const TodoItem = ({title,id,handleDlt}) => {
     
     handleDlt(id)
   }
-
+//git remote add origin https://github.com/Shubham0442/Todo-React-App.git
   return (
     <div>
        
