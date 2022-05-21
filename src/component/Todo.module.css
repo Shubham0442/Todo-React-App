@@ -1,0 +1,45 @@
+
+.head{
+    color: brown;
+    text-shadow: 0px 0px 2.5px;
+}
+
+.Add{
+   border: 2px solid #fec578;
+   height: 40px;
+   width: 50%;
+
+} 
+
+.AddBtn{
+    padding: 15px;
+    border: 0.5px;
+    border-color: #fec578;
+    font-weight: 550;
+    background-color: #fc7c36; 
+    color: white;
+    
+}
+
+.todoDiv{
+    width: 60%;
+    height: 50px;
+    border:1px solid #f03818; 
+    margin: auto;
+    color: white;
+    text-transform: capitalize;
+    font-weight: 550;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+
+.dltBtn{
+    border: 0;
+    border-radius: 5px;
+    padding: 5px 10px 5px 10px;
+    font-size: 10px;
+    color: white;
+    text-shadow: 0px 0px 2.5px;
+    background-color: #f39d2d;
+    font-weight: 550;
+}
